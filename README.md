@@ -5,10 +5,11 @@
 I'm Riccardo Spadon and I studied at EPICODE,a training program for web front-end developers.
 <br>
 ❤ I love:
-
-<ul> Technology 📱</ul>
-<ul> Coding 👨‍💻 </ul>
-<ul> Sports 🏐</ul>
+<ul>
+<li> Technology 📱</li>
+<li> Coding 👨‍💻 </li>
+<li> Sports 🏐</li>
+</ul> 
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JpYXk5aXY5anJoaHk5NzF3ZXEwZmR0ZDB6ZGR4NGZrb29lZjV5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="20%" align="right">
 </div>
