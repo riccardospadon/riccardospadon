@@ -36,9 +36,9 @@ I'm Riccardo Spadon and I studied at EPICODE,a training program for web front-en
 # 🧲 Connect with me! 😎
 <div>
   <a href="https://www.linkedin.com/in/riccardo-spadondev/">
-    ![linkedin](https://github.com/riccardospadon/riccardospadon/assets/51595285/0a61e3d9-fed5-460d-9086-200b2dd767e3)
+    <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/0a61e3d9-fed5-460d-9086-200b2dd767e3">
   </a>
     <a href="mailto:spadon.riccardo@gmail.com">
-![gmail](https://github.com/riccardospadon/riccardospadon/assets/51595285/627d4db9-039e-490e-91d9-93f944c66438)
+    <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/627d4db9-039e-490e-91d9-93f944c66438">
   </a>
 </div>
