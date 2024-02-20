@@ -26,7 +26,7 @@ I'm Riccardo Spadon and I studied at EPICODE, a training program for web front-e
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/b6f67390-c780-462a-ade5-93026689b3dd" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/f5defda4-6978-41e3-8275-41c5911cb890" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/0356cfec-ed9c-467e-9bf3-e9011285f8e7" width="10%">
-  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/456b07a2-d016-465b-9f4b-10b5c667c2e2" width="10%">
+  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/439b76a0-f9fa-4d10-bedf-06b071683534" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/c2511a29-f81c-4473-9cc9-18e2aa7abedb" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/a4f01f4f-7156-4394-8254-16e51f751ba5" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/094b6441-f2b4-41e6-aaed-3b03ff73b71c" width="10%">
