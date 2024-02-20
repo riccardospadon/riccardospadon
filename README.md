@@ -16,9 +16,9 @@ I'm Riccardo Spadon and I studied at EPICODE,a training program for web front-en
 </div>
 
 <br>
-👀 Here you can find what I did during the course and also something personal projects, so... Stay Tuned!
+<p>👀 Here you can find what I did during the course and also something personal projects, so... Stay Tuned!</p>
 <br>
-⚛ I have learned some technologies and tools of web development, including HTML, CSS, SASS and Bootstrap and I also have leared frameworks like React and JavaScript. 
+<p>⚛ I have learned some technologies and tools of web development, including HTML, CSS, SASS and Bootstrap and I also have leared frameworks like React and JavaScript. </p> 
 
 
 #
