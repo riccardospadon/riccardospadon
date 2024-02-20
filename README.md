@@ -1,7 +1,7 @@
 
 <img src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-# About me
+# 👨‍🦲 About me
 <div>
 I'm Riccardo Spadon and I studied at EPICODE,a training program for web front-end developers.
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JpYXk5aXY5anJoaHk5NzF3ZXEwZmR0ZDB6ZGR4NGZrb29lZjV5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="20%" align="right">
@@ -20,7 +20,7 @@ I'm Riccardo Spadon and I studied at EPICODE,a training program for web front-en
 <br>
 <p>⚛ I have learned some technologies and tools of web development, including HTML, CSS, SASS and Bootstrap and I also have leared frameworks like React and JavaScript. </p> 
 
-# Technologies and tools
+# 💻 Technologies and tools
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/148851962/292255398-f127d327-0ab5-48e3-a648-15dd579abb5a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg0NDQ0NTgsIm5iZiI6MTcwODQ0NDE1OCwicGF0aCI6Ii8xNDg4NTE5NjIvMjkyMjU1Mzk4LWYxMjdkMzI3LTBhYjUtNDhlMy1hNjQ4LTE1ZGQ1NzlhYmI1YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyMFQxNTQ5MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYWZjMDc5MTIyZDhmNWY0ZGNhOTIyNjRjMWY5MjEyODBjNWVkY2I2MTY1NjZmNGU1YmMyZjljMjIzMTE3MGM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.FOp2c-l-Yx1Do-gWR2E_LqU4X9UefCzYPvKlmIOMyWc">
   <img src="https://private-user-images.githubusercontent.com/148851962/292255539-d21b2bbe-9ba9-41c5-9aa1-46b29ec6330e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg0NDQ0NTgsIm5iZiI6MTcwODQ0NDE1OCwicGF0aCI6Ii8xNDg4NTE5NjIvMjkyMjU1NTM5LWQyMWIyYmJlLTliYTktNDFjNS05YWExLTQ2YjI5ZWM2MzMwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyMFQxNTQ5MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOTkzNmM0YjFhZGFiMDhiMjk0ZDBlZTkzZGRhZjdjMTcxZmE3MmMwNzFmNGMwYTBlNzA5Yzk3ZjkzYmNiNTM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.j7P0C00JO3KYfJm4pFbwyEUPGlPqX-q9fcQx9Eb9tOE">
@@ -33,4 +33,12 @@ I'm Riccardo Spadon and I studied at EPICODE,a training program for web front-en
 </div>
 <br>
 
-#
+# 🧲 Connect with me! 😎
+<div>
+  <a href="https://www.linkedin.com/in/riccardo-spadondev/">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2F9WZDNCRFJ4Q7%3Fhl%3Dit-it%26gl%3DUS&psig=AOvVaw05MBXYkUVM1dQl_B8I-OHF&ust=1708531691664000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCfn9amuoQDFQAAAAAdAAAAABAE">
+  </a>
+    <a href="mailto:spadon.riccardo@gmail.com">
+    <img src="https://play.google.com/store/apps/details?id=com.google.android.gm&hl=it">
+  </a>
+</div>
