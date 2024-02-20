@@ -1,4 +1,3 @@
-
 <img src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 # 👨‍🦲 About me
@@ -25,11 +24,11 @@ I'm Riccardo Spadon and I studied at EPICODE, a training program for web front-e
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/cfedbe80-3fd9-47e9-9b38-dc8659356bf9" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/b6f67390-c780-462a-ade5-93026689b3dd" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/f5defda4-6978-41e3-8275-41c5911cb890" width="10%">
-  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/0356cfec-ed9c-467e-9bf3-e9011285f8e7" width="10%">
+  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/0757651b-3eeb-47e1-b936-d3c5bfd01de6" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/439b76a0-f9fa-4d10-bedf-06b071683534" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/c2511a29-f81c-4473-9cc9-18e2aa7abedb" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/a4f01f4f-7156-4394-8254-16e51f751ba5" width="10%">
-  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/094b6441-f2b4-41e6-aaed-3b03ff73b71c" width="10%">
+  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/1b28c514-8606-497a-b784-55cd31b19e70" width="10%">
 </div>
 <br>
 
