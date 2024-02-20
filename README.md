@@ -42,3 +42,10 @@ I'm Riccardo Spadon and I studied at EPICODE, a training program for web front-e
     <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/627d4db9-039e-490e-91d9-93f944c66438" width="10%">
   </a>
 </div>
+
+
+# 📈 Projects:
+<div>
+<h3>Below, you can see my favourite project that I made/worked on</h3>
+<h5>⬇⬇⬇</h5>
+</div>
