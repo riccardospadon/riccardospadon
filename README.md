@@ -45,7 +45,8 @@ I'm Riccardo Spadon and I studied at EPICODE, a training program for web front-e
 
 
 # 📈 Projects:
-<div>
-<h3>Below, you can see my favourite project that I made/worked on</h3>
-<h5>⬇⬇⬇</h5>
+
+<h1>Below, you can see my favourite project that I made/worked on</h1>
+<div align="center">
+<h1>⬇⬇⬇</h1>
 </div>
