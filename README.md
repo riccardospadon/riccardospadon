@@ -15,18 +15,16 @@ I'm Riccardo Spadon and I studied at EPICODE, a training program for web front-e
 </div>
 
 <br>
-<p>👀 Here you can find what I did during the course and also something personal projects, so... Stay Tuned!</p>
-<br>
 <p>⚛ I have learned some technologies and tools of web development, including HTML, CSS, SASS and Bootstrap and I also have leared frameworks like React and JavaScript. </p> 
 
 # 💻 Technologies and tools
 <div align="center">
-  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/cfedbe80-3fd9-47e9-9b38-dc8659356bf9" width="15%">
+  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/cfedbe80-3fd9-47e9-9b38-dc8659356bf9" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/b6f67390-c780-462a-ade5-93026689b3dd" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/f5defda4-6978-41e3-8275-41c5911cb890" width="10%">
-  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/0757651b-3eeb-47e1-b936-d3c5bfd01de6" width="15%">
-  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/439b76a0-f9fa-4d10-bedf-06b071683534" width="15%">
-  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/c2511a29-f81c-4473-9cc9-18e2aa7abedb" width="15%">
+  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/0757651b-3eeb-47e1-b936-d3c5bfd01de6" width="10%">
+  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/439b76a0-f9fa-4d10-bedf-06b071683534" width="10%">
+  <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/c2511a29-f81c-4473-9cc9-18e2aa7abedb" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/a4f01f4f-7156-4394-8254-16e51f751ba5" width="10%">
   <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/1b28c514-8606-497a-b784-55cd31b19e70" width="10%">
 </div>
@@ -44,7 +42,7 @@ I'm Riccardo Spadon and I studied at EPICODE, a training program for web front-e
 
 
 # 📈 Projects:
-Below, you can see my favourite project that I made/worked on
+👀 Below, you can see my favourite projects that I made/co-worked on and also my personal ones, so... Stay Tuned!
 <div align="center">
 <h1>⬇⬇⬇</h1>
 </div>
