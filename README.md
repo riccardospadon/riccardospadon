@@ -3,7 +3,7 @@
 
 # 👨‍🦲 About me
 <div>
-I'm Riccardo Spadon and I studied at EPICODE,a training program for web front-end developers.
+I'm Riccardo Spadon and I studied at EPICODE, a training program for web front-end developers.
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JpYXk5aXY5anJoaHk5NzF3ZXEwZmR0ZDB6ZGR4NGZrb29lZjV5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="20%" align="right">
 <br>
 ❤ I love:
@@ -36,9 +36,9 @@ I'm Riccardo Spadon and I studied at EPICODE,a training program for web front-en
 # 🧲 Connect with me! 😎
 <div align="center">
   <a href="https://www.linkedin.com/in/riccardo-spadondev/">
-    <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/0a61e3d9-fed5-460d-9086-200b2dd767e3" width="20%">
+    <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/0a61e3d9-fed5-460d-9086-200b2dd767e3" width="10%">
   </a>
     <a href="mailto:spadon.riccardo@gmail.com">
-    <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/627d4db9-039e-490e-91d9-93f944c66438" width="20%">
+    <img src="https://github.com/riccardospadon/riccardospadon/assets/51595285/627d4db9-039e-490e-91d9-93f944c66438" width="10%">
   </a>
 </div>
