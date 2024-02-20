@@ -36,9 +36,9 @@ I'm Riccardo Spadon and I studied at EPICODE,a training program for web front-en
 # 🧲 Connect with me! 😎
 <div>
   <a href="https://www.linkedin.com/in/riccardo-spadondev/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2F9WZDNCRFJ4Q7%3Fhl%3Dit-it%26gl%3DUS&psig=AOvVaw05MBXYkUVM1dQl_B8I-OHF&ust=1708531691664000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCfn9amuoQDFQAAAAAdAAAAABAE">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2F9WZDNCRFJ4Q7%3Fhl%3Dit-it%26gl%3DUS&psig=AOvVaw05MBXYkUVM1dQl_B8I-OHF&ust=1708531691664000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCfn9amuoQDFQAAAAAdAAAAABAE" alt="Linkedin">
   </a>
     <a href="mailto:spadon.riccardo@gmail.com">
-    <img src="https://play.google.com/store/apps/details?id=com.google.android.gm&hl=it">
+    <img src="https://play.google.com/store/apps/details?id=com.google.android.gm&hl=it" alt="Gmail">
   </a>
 </div>
