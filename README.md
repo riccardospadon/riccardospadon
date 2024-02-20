@@ -3,8 +3,8 @@
 
 # About me
 <div>
-
 I'm Riccardo Spadon and I studied at EPICODE,a training program for web front-end developers.
+<br>
 ❤ I love:
 - Technology 📱
 - Coding 👨‍💻 
