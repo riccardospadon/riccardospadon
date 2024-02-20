@@ -5,7 +5,7 @@
 I'm Riccardo Spadon and I studied at EPICODE,a training program for web front-end developers.
 <br>
 ❤ I love:
-  <li>
+  <li ::marker="none">
 <ul> Technology 📱</ul>
 <ul> Coding 👨‍💻 </ul>
 <ul> Sports 🏐</ul>
