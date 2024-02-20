@@ -2,10 +2,10 @@
 
 # 👨‍🦲 About me
 <div>
-I'm Riccardo Spadon and I studied at EPICODE, a training program for web front-end developers.
+My name is Riccardo Spadon and I completed my studies at EPICODE, a training program for web front-end developers.
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JpYXk5aXY5anJoaHk5NzF3ZXEwZmR0ZDB6ZGR4NGZrb29lZjV5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="20%" align="right">
 <br>
-❤ I love:
+🤓 My interests include:
 <ul>
   <br>
 <li> Technology 📱</li>
@@ -15,7 +15,7 @@ I'm Riccardo Spadon and I studied at EPICODE, a training program for web front-e
 </div>
 
 <br>
-<p>⚛ I have learned some technologies and tools of web development, including HTML, CSS, SASS and Bootstrap and I also have leared frameworks like React and JavaScript. </p> 
+<p>⚛ I have acquired proficiency in various web development technologies and tools, such as HTML, CSS, SASS and Bootstrap and I also have leared frameworks like React and JavaScript. </p> 
 
 # 💻 Technologies and tools
 <div align="center">
