@@ -1,5 +1,5 @@
 <img src="https://tenor.com/it/view/software-software-development-gif-24712790">
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Jsd3Z5cm90Mnp3NzYxZnk5Y3Q0N3JmOTNia3ZpeHFrbTNsaDZkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div>
 
 # 👨‍🦲 About me
 <div>
